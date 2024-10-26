@@ -1,0 +1,99 @@
+.firstSection{
+    display: flex;
+    justify-content: space-around;
+    margin: 130px 0;
+    align-items: center;
+    
+}
+.firstSection> div{
+    
+    width: 30%;
+}
+.leftSection{
+    
+    font-size:3rem;
+ 
+    
+}
+.rightSection{
+    
+
+    
+}
+.rightSection img{
+    width:80%;
+   margin:50px 0;
+}
+.purple{
+    color:blueviolet;
+}
+.secondSection{
+    max-width:80vm;
+    margin: 0 130px;
+    height: 80vh;
+}
+main hr{
+    border:0;
+    background-color: aliceblue;
+    height: 1px;
+    margin:40px 84px;
+
+}
+.secondSection h1{
+    font-size: 1.9rem;
+}
+.textgray{
+    color: rgb(182, 180, 180);
+}
+.secondSection .box{
+    background: white;
+    width:80vw;
+    height: 2px;
+    margin: 56px 0;
+    display:flex;
+}
+.secondSection .Exp{
+    font-weight:bolder;
+
+}
+h3{
+    color: rgb(172, 101, 237);
+}
+footer{
+        text-transform: capitalize;
+        font-weight: bolder;
+        max-width:80vm;
+        margin: 0 130px;
+        height: 80vh;
+    }
+.call{
+    font-weight: 500;
+    margin:20px 50px;
+}
+.call:hover{
+    color: rgb(196, 196, 238);
+    font-size: 1.1rem;
+}
+ a:hover{
+    color: rgb(196, 196, 238);
+    font-size: 1.1rem;
+}
+ a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.Linkedin{
+    font-weight: 500;
+    margin:20px 50px;
+
+}
+.Github{
+    font-weight: 500;
+    margin:20px 50px;
+
+}
+.Gmail{
+    font-weight: 500;
+    margin:20px 50px;
+
+}
